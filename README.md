@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Maximus080111 👋
 
-<!--
-**Maximus080111/Maximus080111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer with interests in various areas of technology. Here, you'll find some of my projects and more about me.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Spinoza-leeromgeving
+- 🌱 I’m currently learning Laravel and PHP
+- 📫 How to reach me: overbeekmax@gmail.com
+- 😄 Pronouns: He/Him
+
+## 🛠️ Technologies & Tools
+
+- Programming Languages: Javascript, C#, , html, css
+- Frameworks: Laravel, React
+- Tools: visual studio code, figma
+
+## 📈 GitHub Stats
+
+![Maximus080111's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maximus080111&show_icons=true&theme=radical)
