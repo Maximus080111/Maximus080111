@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer with interests in vario
 
 ## 🛠️ Technologies & Tools
 
-- Programming Languages: Javascript, C#, , html, css
+- Programming Languages: Javascript, C#, html, css, php, python
 - Frameworks: Laravel, React
 - Tools: visual studio code, figma
 
